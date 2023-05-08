@@ -3,6 +3,9 @@ Group Sitta will explore any web application security vulnerabilities that exist
 
 ![Tiktok Alert](https://user-images.githubusercontent.com/129409403/236791808-f51d64e3-0024-4aa3-a16e-9726f7b03510.PNG)
 
+2 alerts that will be discuss further which is:-
+* Secured Cookies
+* Information Disclosure
 
 ## Secured Cookies
 
