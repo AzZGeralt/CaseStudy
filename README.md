@@ -1,2 +1,5 @@
 # Case Study (TikTok.com)
-Web Application Security work especially labtest
+
+## Secured Cookies
+
+## Information Disclosure
